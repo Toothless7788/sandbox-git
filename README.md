@@ -8,3 +8,8 @@ A sandbox for you to test Git
 
 ## Note
 - Do not mind the commits in this repository
+- [Commit](#commit) provides an area for you to make **dummy commits**
+
+
+## Commit
+- 1
